@@ -3,7 +3,7 @@
 
 $cd ~/catkin_ws/src
 
-#add this package
+#add this package in src directory
 
 $cd ~/caktin_ws
 
